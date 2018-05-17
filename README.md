@@ -3,6 +3,9 @@ teapot
 
 Package teapot implements HTCPCP-TEA.
 
+### Documentation:
+* https://godoc.org/github.com/davsk/teapot
+
 ### reference:
 * https://www.ietf.org/rfc/rfc2324.txt
 * http://www.rfc-editor.org/rfc/rfc7168.txt
