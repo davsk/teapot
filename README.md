@@ -3,7 +3,7 @@ teapot
 
 Package teapot implements HTCPCP-TEA.
 
-### Documentation:
+### documentation:
 * https://godoc.org/github.com/davsk/teapot
 
 ### reference:
